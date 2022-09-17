@@ -1,0 +1,11 @@
+C:\Users\Fr33d\source\repos\Jogo da Velha - Final\Jogo da Velha - Final\bin\Release\Jogo da Velha - Final.exe.config
+C:\Users\Fr33d\source\repos\Jogo da Velha - Final\Jogo da Velha - Final\bin\Release\Jogo da Velha - Final.exe
+C:\Users\Fr33d\source\repos\Jogo da Velha - Final\Jogo da Velha - Final\bin\Release\Jogo da Velha - Final.pdb
+C:\Users\Fr33d\source\repos\Jogo da Velha - Final\Jogo da Velha - Final\obj\Release\Jogo da Velha - Final.csproj.AssemblyReference.cache
+C:\Users\Fr33d\source\repos\Jogo da Velha - Final\Jogo da Velha - Final\obj\Release\Jogo da Velha - Final.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fr33d\source\repos\Jogo da Velha - Final\Jogo da Velha - Final\obj\Release\Jogo_da_Velha___Final.Form1.resources
+C:\Users\Fr33d\source\repos\Jogo da Velha - Final\Jogo da Velha - Final\obj\Release\Jogo_da_Velha___Final.Properties.Resources.resources
+C:\Users\Fr33d\source\repos\Jogo da Velha - Final\Jogo da Velha - Final\obj\Release\Jogo da Velha - Final.csproj.GenerateResource.cache
+C:\Users\Fr33d\source\repos\Jogo da Velha - Final\Jogo da Velha - Final\obj\Release\Jogo da Velha - Final.csproj.CoreCompileInputs.cache
+C:\Users\Fr33d\source\repos\Jogo da Velha - Final\Jogo da Velha - Final\obj\Release\Jogo da Velha - Final.exe
+C:\Users\Fr33d\source\repos\Jogo da Velha - Final\Jogo da Velha - Final\obj\Release\Jogo da Velha - Final.pdb
